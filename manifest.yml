@@ -1,0 +1,8 @@
+---
+name : the-program
+description :  "A minimumlist theme for Jekyll-Bootstrap."
+git_url : git://github.com/yassineS/kactusjbs.git
+source_url : https://github.com/jekyllbootstrap/
+author:
+  name : Yassine Souilmi
+  email : ysouilmi@gmail.com
